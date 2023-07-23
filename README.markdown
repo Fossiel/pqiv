@@ -1,4 +1,4 @@
-PQIV README
+PQIV WITH CLICK-THROUGH OPTION README
 ===========
 About this fork:
 ---------------
