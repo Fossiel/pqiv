@@ -1,8 +1,8 @@
-PQIV WITH CLICK-THROUGH OPTION README
+PQIV WITH CLICK-THROUGH OPTION
 ===========
-About this fork:
+About this repo:
 ---------------
-This fork exists with the sole purpose of future proofing the click-through option for PQIV. The fork will not be actively developed or maintained - Please do not submit bugs, feature requests etc. For those, please visit the original developer's git: https://github.com/phillipberndt/pqiv or the developer who added the click-through option https://github.com/mortoray/pqiv/tree/35c6a84a60caab7fe1c373b88475e25dd32eaee7
+This code base is a hard fork of pqiv with an added option for click-through. I did NOT develop this software. The fork exists with the sole purpose of future proofing the click-through option for pqiv. The fork will not be actively developed nor maintained - Please do not submit bugs, feature requests etc. For those, please visit the original developer's git: https://github.com/phillipberndt/pqiv or the developer who added the click-through option https://github.com/mortoray/pqiv/tree/35c6a84a60caab7fe1c373b88475e25dd32eaee7
 
 About pqiv
 ----------
